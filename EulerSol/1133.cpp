@@ -23,6 +23,7 @@ int main(void)
 int res(int num1,int num2,int num3)
 {
     int result; 
+    
     return result;
 }
 

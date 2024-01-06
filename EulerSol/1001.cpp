@@ -19,8 +19,7 @@ int main(void)
     }
 
     else 
-    {
-        printf("=");
+    {        printf("=");
         return 0;
     }
 
